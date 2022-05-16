@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "63378074111",
+    "project_id": "apadmagrocery",
+    "storage_bucket": "apadmagrocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63378074111:android:96982b17708a7a499e9fca",
+        "android_client_info": {
+          "package_name": "com.rexoit.padmadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63378074111-vv1bqhsij7mtrf5ch5l25o6o686b2nb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSzcd5-27rrgj_ieZKKTrSZHWRw6KCTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63378074111-vv1bqhsij7mtrf5ch5l25o6o686b2nb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63378074111-hab2lkh68te5r00fu70esir7363v3qjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rexoit.padmadelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63378074111:android:54a33169a1b298239e9fca",
+        "android_client_info": {
+          "package_name": "com.rexoit.padmagrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63378074111-vv1bqhsij7mtrf5ch5l25o6o686b2nb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSzcd5-27rrgj_ieZKKTrSZHWRw6KCTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63378074111-vv1bqhsij7mtrf5ch5l25o6o686b2nb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63378074111-hab2lkh68te5r00fu70esir7363v3qjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rexoit.padmadelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
